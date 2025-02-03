@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bennichristober
 - 👀 I’m interested in Python(AI),Github,Sql,HTML,CSS,Javascript 
-- 🌱 I’m currently learning Python and Github
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me,just meet here😊
 
